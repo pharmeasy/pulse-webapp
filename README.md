@@ -14,6 +14,7 @@ With the local environment you can access it via http://localhost:6000
 
 
 ## File Structure
+```
 .
 ├── README.md                # README file
 ├── next.config.js           # Next JS configuration
@@ -28,3 +29,4 @@ With the local environment you can access it via http://localhost:6000
 │   └── utils                # Utility folder
 ├── tailwind.config.js       # Tailwind CSS configuration
 └── tsconfig.json            # TypeScript configuration
+```
